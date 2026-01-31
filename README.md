@@ -8,4 +8,4 @@ The goal was to explore quantum search techniques on a Battleship-style grid usi
 
 ## Collaboration
 
-Completed together with **Dmitry Kobilyanski**.
+Completed together with **Dmitrii Kobylianskii**.
